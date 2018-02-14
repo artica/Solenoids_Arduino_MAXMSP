@@ -5,7 +5,7 @@ This program uses Firmata / Maxuino.
 
 http://www.maxuino.org/downloads
 
-Youtubwe video:
+Youtube video:
 https://youtu.be/GcjFiCbWwyM
 
 
